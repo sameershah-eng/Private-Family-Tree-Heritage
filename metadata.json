@@ -1,0 +1,6 @@
+{
+  "name": "Heirloom - Private Family Tree & Heritage Archive",
+  "description": "A private, elegant family tree platform to record, explore, and present generational heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
